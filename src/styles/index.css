@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cardRow {
+    margin-left: 30px;
+   
+}

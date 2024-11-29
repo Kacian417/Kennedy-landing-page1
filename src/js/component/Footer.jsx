@@ -4,9 +4,9 @@ const Footer = () => {
     return (
         <>
 
-                <footer class="footer mt-5 pt-5 bg-dark">
+                <footer class="footer mt-5 bg-dark py-4">
                     <div class="container align-center">
-                        <span class="text-light">Place sticky footer content here.</span>
+                        <span class="text-light d-flex justify-content-center">Copyright @ Your Website 2024</span>
                     </div>
                 </footer>
         </>
